@@ -1,0 +1,6 @@
+{
+  "name": "socketio_tests",
+  "dependencies": {
+    "socket.io": "*"
+  }
+}
