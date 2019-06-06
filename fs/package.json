@@ -1,0 +1,6 @@
+{
+  "name": "fs_tests",
+  "dependencies": {
+    "fs": "*"
+  }
+}
