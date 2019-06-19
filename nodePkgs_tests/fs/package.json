@@ -1,0 +1,6 @@
+{
+  "name": "fs_benchmark_tests",
+  "dependencies": {
+    "fs": "*"
+  }
+}

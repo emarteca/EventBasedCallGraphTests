@@ -1,0 +1,6 @@
+{
+  "name": "net_tests",
+  "dependencies": {
+    "net": "*"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "socketioclient_tests",
+  "dependencies": {
+    "socket.io": "*",
+    "socket.io-client": "*"
+  }
+}

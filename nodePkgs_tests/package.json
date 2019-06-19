@@ -1,0 +1,6 @@
+{
+  "name": "fetch_tests",
+  "dependencies": {
+    "fetch": "*"
+  }
+}
